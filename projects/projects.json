@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "TypeScript  -  GameHub",
+    "desc": "I have developed TypeScript Project - GameHub to find all the information about new launched games with their popularity etc.",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://game-hub-eight-zeta.vercel.app/",
+      "code": "https://game-hub-eight-zeta.vercel.app/"
     }
   },
   {
