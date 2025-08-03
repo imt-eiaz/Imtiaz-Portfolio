@@ -54,7 +54,9 @@ $(document).ready(function () {
         },
         function (error) {
           console.log("FAILED...", error);
-          alert("Form Submission Failed! Try Again");
+          alert(
+            "Form Submission Failed! Try Again contacting by sending an email to imteiaz@gmail.com"
+          );
         }
       );
     event.preventDefault();
