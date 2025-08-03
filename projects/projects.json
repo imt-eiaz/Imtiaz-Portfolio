@@ -49,6 +49,17 @@
       "code": "https://game-hub-eight-zeta.vercel.app/"
     }
   },
+   {
+    "name": "Wordpress Website",
+    "desc": "Designed and developed a fully functional Learning Management System (LMS) for online driving theory learning.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": " https://khanzpatente.com/",
+      "code": " https://khanzpatente.com/"
+    }
+    
+  },
   {
     "name": "MERN - Inventory Management",
     "desc": "Full-Stack MERN Stack WebApp, with Admin Dashboard and Inventory Managment. ready to use for business.",
@@ -71,32 +82,23 @@
   },
   {
     "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "desc": "Developed and deployed a fully functional custom chatbot solution tailored for websites.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://imt-eiaz.github.io/robofriends/",
+      "code": "https://imt-eiaz.github.io/robofriends/"
     }
   },
+ 
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
-    }
-  },
-  {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "Andriod App Development",
+    "desc": "I developed the Mobilefix app, which is designed for iPhone users to access price lists and repair information",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://github.com/imt-eiaz",
+      "code": "https://github.com/imt-eiaz"
     }
   },
   {
